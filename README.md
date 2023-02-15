@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![oyince](https://circleci.com/gh/oyince/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/oyince/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
